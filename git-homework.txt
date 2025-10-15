@@ -1,0 +1,7 @@
+"The diffrence between git and Github is based on its storage. Git is local so it  access the  changes in files locally and is also the place where you type your commands. Github is a remote repo which stores your code. This allows others to access and pull the code when needed"
+
+"git add <file> only stages the certain specified file. git add. stages all changes made in the branch or directory. git add -A stages every change through the entire repository."
+
+"Git push sends your commits to the remote repository after you make changes and commit them. get pull download and merges changes from the remote repository to your local branch."
+
+"Fetch gets the changes but does not merge it into your local branch. Git pull does both getting the changes and also merging them into your local branch"
