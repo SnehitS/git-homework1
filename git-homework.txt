@@ -5,3 +5,4 @@
 "Git push sends your commits to the remote repository after you make changes and commit them. get pull download and merges changes from the remote repository to your local branch."
 
 "Fetch gets the changes but does not merge it into your local branch. Git pull does both getting the changes and also merging them into your local branch"
+ 
