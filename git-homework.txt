@@ -6,3 +6,4 @@
 
 "Fetch gets the changes but does not merge it into your local branch. Git pull does both getting the changes and also merging them into your local branch"
  
+ 
